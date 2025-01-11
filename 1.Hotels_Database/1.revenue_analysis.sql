@@ -75,3 +75,10 @@ FROM hotel_log hl
 WHERE is_canceled = 0
 GROUP BY hl.arrival_date_year, reserved_room_type
 ORDER BY arrival_date_year, total_revenue DESC; -- 'A' is the most reserved roomtype
+/* **************************
+    (\_/)  
+    (•ᴥ•)🚀  
+    /  \  
+    ~~~~~  
+    Exploring the SQL galaxy!  
+************************** */
